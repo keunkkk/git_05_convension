@@ -21,5 +21,11 @@
   * 별표(asterisks)
 
 ### 링크(Links)
-[구글](http://goole.com)
-  
+[구글](http://www.goole.com)   
+[네이버](http://www.naver.com)   
+[구글홈페이지]<http://www.google.com>   
+[네이버홈페이지]<http://www.naver.com>   
+
+### 이미지(Images)
+![김민재](https://search.pstatic.net/common?type=b&size=216&quality=100&direct=true&src=http%3A%2F%2Fsstatic.naver.net%2Fpeople%2F1%2F202206281819545621.png)
+
